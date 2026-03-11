@@ -105,7 +105,7 @@ Die Golden Phoenix Central Bank kann – je nach der Absicht*¹ – folgende Rol
 
 🧱 Systemarchitektur (textbasiert)
 
-`
+```
                 [ Golden Phoenix Central Bank ]
                            /        \
                           /          \
@@ -114,7 +114,7 @@ Die Golden Phoenix Central Bank kann – je nach der Absicht*¹ – folgende Rol
               Bank       Card     Bank     Card
                  \         /         \       /
                 [ Golden VIP ]     [ Global VIP ]
-`
+```
 
 
 
