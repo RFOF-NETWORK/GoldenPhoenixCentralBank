@@ -62,13 +62,19 @@ Damit entsteht eine Institution, die über allen anderen Banken und Karten steht
 
 🏛️ Position im Gesamtsystem
 
+🪙 Gold/en-Ebene
+- Golden Bank
+- Golden Card
+- Golden VIP Bank
+- Golden VIP Card
+
 🌍 Global-Ebene
 - Global Bank  
 - Global Card  
 - Global VIP Bank  
 - Global VIP Card  
 
-✨ Golden-Ebene
+✨ Golden-Global-Ebene
 - Golden Global Bank  
 - Golden Global Card  
 - Golden Global VIP Bank  
